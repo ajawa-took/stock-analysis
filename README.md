@@ -15,8 +15,8 @@
 
 ### Stock Data Produced
 
-![Stocks data 2017.](/resources/Stocks2017.png)
-![Stocks data 2018.](/resources/Stocks2018.png)
+![Stocks data 2017.](/Resources/Stocks2017.png)
+![Stocks data 2018.](/Resources/Stocks2018.png)
 
 #### Recommendations
 
